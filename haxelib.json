@@ -4,7 +4,7 @@
   "license": "Public",
   "tags": ["cross", "event"],
   "description": "An event emitter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "releasenote": "Initial release",
   "contributors": ["stoney"],
   "dependencies": {}

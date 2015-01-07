@@ -9,8 +9,9 @@ import eventbeacon.Beacon;
 // ...
 
 var beacon = new Beacon();
-beacon.on('test', function(data) {
-	trace(data);
+beacon.on('test', function(event) {
+	// Getting the payload of the event
+	trace(event.data);
 });
 
 beacon.trigger('test', 'Triggered that test event. Super cool.');

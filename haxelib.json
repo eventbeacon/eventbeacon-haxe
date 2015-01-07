@@ -6,6 +6,6 @@
   "description": "An event emitter",
   "version": "0.1.0",
   "releasenote": "Initial release",
-  "contributors": ["Stoney-FD"],
+  "contributors": ["stoney"],
   "dependencies": {}
 }

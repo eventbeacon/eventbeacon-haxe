@@ -1,7 +1,7 @@
 {
   "name": "eventbeacon",
   "url": "https://github.com/eventbeacon/eventbeacon-haxe",
-  "license": "Public domain",
+  "license": "Public",
   "tags": ["cross", "event"],
   "description": "An event emitter",
   "version": "0.1.0",

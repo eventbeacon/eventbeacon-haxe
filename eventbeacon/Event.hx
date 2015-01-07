@@ -1,6 +1,5 @@
-package eventbeaconeventbeacon.Event..
- * @author 
- */
+package eventbeacon;
+
 class Event
 {
 	public var sender: Dynamic;

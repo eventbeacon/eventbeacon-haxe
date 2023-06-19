@@ -60,7 +60,7 @@ class Beacon
 		ev.sender = this;
 		
 		var listener = listeners.get(name);
-		
+		if(listener == null) return;
 		for (i in listener) {
 			i.bind(ev)();
 		}
